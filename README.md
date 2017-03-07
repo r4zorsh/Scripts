@@ -2,7 +2,7 @@
 
 stealinfobrowser.py is a simple tool that enumerate store information of google chrome and firefox browser.
 
-
+The tool is still incomplete , can be add more functionality
 
 Installation
 
