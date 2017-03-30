@@ -5,7 +5,7 @@
 # 
 # It works with windows and linux 
 # 
-# 
+# created by r4zorsh
 
 import sqlite3
 import re
